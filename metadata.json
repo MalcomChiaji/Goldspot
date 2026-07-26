@@ -1,0 +1,6 @@
+{
+  "name": "XAUUSD Gold Trading Predictor",
+  "description": "Forex day trading prediction engine and backtester for XAUUSD using COMEX Gold Futures data, multi-timeframe pattern recognition, regime detection, AI news sentiment, real-time price alerts with web audio chimes, and AI chart vision analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
